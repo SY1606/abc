@@ -1,0 +1,2 @@
+include ':app', ':x1', ':prlibrary', ':liuhang1123'
+project(':prlibrary').projectDir = new File('aa/prlibrary')
